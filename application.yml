@@ -20,4 +20,4 @@ microservice:
   security-service:
     endpoints:
       endpoint:
-        uri: http://SECURITY-SERVICE/order/bookOrder      
+        uri: http://SECURITY-SERVICE/rest/hello/security      
